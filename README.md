@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoahWich
 - 👀 I’m interested in Blockchain Application Programming & Embedded Systems
-- 🌱 I’m currently learning how to program on the Ethereum Blockchain through Decentralized Applications and Autonomous Flight Code for Drones.
-- 💞️ I’m looking to collaborate on ANYTHING! Send me some ideas!
+- 🌱 I’m currently learning how to program on the Ethereum Blockchain through Decentralized Applications.
+- 💞️ I’m looking to collaborate on Blockchain Applications and Teaching others how to code!
 - 📫 How to reach me: noahwich@buffalo.edu
 
 <!---
